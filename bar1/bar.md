@@ -1,3 +1,3 @@
 # Bar
 
-A single quoted
+a single quoted
