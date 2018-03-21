@@ -1,3 +1,3 @@
 # Foo
 
-a bcdefg
+a
