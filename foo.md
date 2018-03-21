@@ -1,11 +1,3 @@
-# Foo
+### Getting Access
+All PFR users are allowed and encouraged to use powerPlant for their computational science needs. To get started, simply submit a request to HelpDesk with the subject *"powerPlant access request"*, asking them to enable your account for powerPlant. Actually, just [click here](%%%%%%%), hit Send, and we'll do the rest :) [test](%20a)
 
-More text.
-More text.
-More text.
-More text.
-More text.
-
-This is markdown with a [click here](%%%%%%%) containing a target with 7 `%` chars
-
-A symlink called `README.md` which points to this file renders fine in GitHub.
