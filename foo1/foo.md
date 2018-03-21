@@ -1,3 +1,3 @@
 # Foo
 
-link `[`
+A single quoted `[`, renders fine.
