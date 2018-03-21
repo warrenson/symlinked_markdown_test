@@ -5,5 +5,3 @@ A symlink called `README.md` which points to this file renders fine in GitHub. T
 A symlink called `README.md` which points to this file renders fine in GitHub.
 A symlink called `README.md` which points to this file renders fine in GitHub.
 A symlink called `README.md` which points to this file renders fine in GitHub.
-A symlink called `README.md` which points to this file renders fine in GitHub.
-
