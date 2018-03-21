@@ -1,4 +1,4 @@
-# Markdown Auto-Rendering of Symlinked README.md Test
+# Markdown Auto-Rendering of Symlinked `README.md` Test
 
 This repo test a strange behavior, where it appears that a certain character change causes a rendering issue.
 
