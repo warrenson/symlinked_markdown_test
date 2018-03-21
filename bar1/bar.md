@@ -1,3 +1,3 @@
 # Bar
 
-A bcdefg hijklm
+A bcdefg
