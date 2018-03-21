@@ -1,3 +1,3 @@
 # Foo
 
-A single quoted `[`
+A single quoted
