@@ -1,3 +1,3 @@
 # Foo
 
-a bcdefg hijklm
+a bcdefg
