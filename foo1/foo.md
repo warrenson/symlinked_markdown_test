@@ -1,3 +1,3 @@
 # Foo
 
-A single quoted `[`, renders fine.
+A single quoted `[`
