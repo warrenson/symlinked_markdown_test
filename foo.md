@@ -2,8 +2,8 @@
 
 A symlink called `README.md` which points to this file renders fine in GitHub. This file has a markdown with a [link](%%%%%%%) containing a target with 7 `%` chars.
 
-00000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000000000000000000000000000000000000000000000000000000000000000000000000000
-00000000000000000000000000000000000000000000000000000000000000000000000000000000
+A symlink called `README.md` which points to this file renders fine in GitHub.
+A symlink called `README.md` which points to this file renders fine in GitHub.
+A symlink called `README.md` which points to this file renders fine in GitHub.
+A symlink called `README.md` which points to this file renders fine in GitHub.
+A symlink called `README.md` which points to this file renders fine in GitHub.
