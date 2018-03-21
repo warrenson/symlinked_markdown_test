@@ -1,3 +1,3 @@
 # Foo
 
-link `[]`
+link `[`
