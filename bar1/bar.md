@@ -1,2 +1,3 @@
 # Bar
-[link](%)
+
+abcd
