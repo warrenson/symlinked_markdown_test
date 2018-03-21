@@ -1,5 +1,5 @@
 # Foo
-[link](%)
+[link]()
 
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
